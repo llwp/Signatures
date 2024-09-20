@@ -42,3 +42,5 @@ This Agreement is governed by the laws of the Government of Puerto Rico, and the
 This Agreement is the entire agreement between the parties, and supersedes any and all prior agreements, understandings or communications, written or oral, between the parties relating to the subject matter hereof. This Agreement may be assigned by Cuperino.
 
 By signing, You accept and agree to the terms of this Contribution License Agreement for Your present and future Submissions to Cuperino.
+
+Adam John
